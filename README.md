@@ -238,4 +238,4 @@ Flatiron Health holds a strong position relative to competitors like Tempus, Sya
 4. Data Sharing and Collaboration Platform
 * These technologies are highly appropriate for the proposed solutions for Flatiron Health because they align with the demands of the oncology field, maximize efficiency, improve patient care, and facilitate data-driven decision-making.
 
-note repo code 
+note repo code https://github.com/madalina889/ai-case-study.git
